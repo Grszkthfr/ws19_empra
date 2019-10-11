@@ -13,7 +13,7 @@ Sitzungsdatum:
 ### Thema 1 ###
 
   * Gerne in Stichpunkten
-  * Links können mit `[Text für Link](www.link.de)` so eingefügt werden: 
+  * [Links](https://grszkthfr.github.io/ws17_empra/) können mit `[Links](https://grszkthfr.github.io/ws17_empra/)` eingefügt werden 
 
 ### Thema 2 ###
 
