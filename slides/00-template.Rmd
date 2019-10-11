@@ -1,0 +1,83 @@
+---
+title: "Einführung in empirische und experimentelle Forschungsmethoden"
+subtitle: "---"
+author: "Jonas Großekathöfer"
+date: '`r format(Sys.time(), "%d.%m.%Y")`'
+output:
+  xaringan::moon_reader:
+    css: ["default", "default-fonts", "my-theme.css"]
+    lib_dir: libs
+    nature:
+      highlightStyle: github
+      highlightLines: true
+      countIncrementalSlides: false
+
+
+---
+
+```{r setup, include=FALSE}
+
+options(htmltools.dir.version = FALSE)
+
+### Sitzungen
+source("../scripts/dates.R", encoding = "UTF-8")
+source("../scripts/random_color.R", encoding = "UTF-8")
+farbe_der_woche = random_color()
+
+```
+
+<!-- Template end -->
+
+
+# Slides come here
+
+
+<!-- Template start -->
+
+---
+
+class: inverse
+
+## Für nächste Woche:
++   Account bei [`r icon::ai_osf()`](https://osf.io/register) erstellen
++   [Projekt beitreten](https://osf.io/9axfe/)
++   Studienideen?
+    +   Eine *Methode* aussuchen
++   3 - 4 Ideen mitbringen
+
+---
+
+class: inverse, center, middle
+
+# Noch Fragen?
+
+---
+
+class: inverse, center, middle
+
+`r icon::fa_smile(size = 5, color = farbe_der_woche)`
+
+Die Farbe der Woche ist `r farbe_der_woche`!
+
+--
+
+# Vielen Dank für Eure Aufmerksamkeit!
+
+
+## Bis nächsten Montag.
+
+--
+
+.footnote[
+
+<font size="-2">Slides created via the R packages [**xaringan**](https://github.com/yihui/xaringan) and [knitr](http://yihui.name/knitr), and [R Markdown](https://rmarkdown.rstudio.com).
+
+<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons Lizenzvertrag" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />Dieses Werk ist lizenziert unter einer <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Namensnennung - Weitergabe unter gleichen Bedingungen 4.0 International Lizenz</a>.</font size>
+
+            ]
+
+
+---
+
+# Quellen
+

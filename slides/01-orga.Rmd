@@ -1,0 +1,325 @@
+---
+title: "Einführung in empirische und experimentelle Forschungsmethoden"
+subtitle: "---"
+author: "Jonas Großekathöfer"
+date: '`r format(Sys.time(), "%d.%m.%Y")`'
+output:
+  xaringan::moon_reader:
+    css: ["default", "default-fonts", "my-theme.css"]
+    lib_dir: libs
+    nature:
+      highlightStyle: github
+      highlightLines: true
+      countIncrementalSlides: false
+
+---
+
+```{r setup, include=FALSE}
+
+options(htmltools.dir.version = FALSE)
+
+### Sitzungen
+source("../scripts/dates.R", encoding = "UTF-8")
+source("../scripts/random_color.R", encoding = "UTF-8")
+farbe_der_woche = random_color()
+
+```
+
+## Zu mir
+
+### Kontakt
+
++   Mail: [jonas.grossekathoefer@uni-wuerzburg.de](mailto:jonas.grossekathoefer@uni-wuerzburg.de)
++   Raum: 207, Marcusstraße 9-11
+
+???
+
+# Forschungsschwerpunkt
+
++   Soziale Kognitionen / soziale Aufmerksamkeit
+
++   Forschungsmethoden
+    +   Eyetracking
+    +   Virtual Reality
+    +   Meta Analysen
+
++   Open Science
+    +   [Reproducibility](https://osf.io/447b3/)
+    +   [Preregistration](https://osf.io/2dxu5/)
+
+---
+
+## Zu Euch
+
+--
+
+### Kontakt
+
++ Name, Semester, Mail?
+
+???
+
+aufschreiben
+
+--
+
++   [Prüfungsleistung](https://www2.uni-wuerzburg.de/mhb/MB-de-06-PSY-EFM-152-m01.pdf)<sup>1</sup>
+    +   Erstellung eines wissenschaftlichen Posters
+    +   Teilnahme am Posterkongress
+    +   Individuelle Präsentation etwa 10 Minuten, benotet
+
+.footnote[
+
+<sup>1</sup> Für Studierende, die ab WS15/16 immatrikuliert sind.
+
+]
+
+--
+
+<iframe src="https://giphy.com/embed/9CoKSiJADd7Wg" width="240" height="138" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+
+.footnote[
+
+<sup>1</sup> Für Studierende, die ab WS15/16 immatrikuliert sind.
+
+]
+
+???
+
+Hier beginnen die Notizen
+
+---
+
+## Ablauf
+
++   montags, 14:15h - 15:45h, R. 213
+
+`r sitzung_html`
+
+---
+
+## Ablauf
+
+### Zusammenarbeit
+
+--
+
++   Überblick: [grszkthfr.github.io/ws19_empra/](https://grszkthfr.github.io/ws19_empra/)
+    +   Anleitungen, Überblick, Ankündigungen
++   öffentlich: [Open Science Framework](https://www.osf.io/)
+    +   Für alles was von öffentlichem Interesse ist.
+    +   Projekt *existiert* [bereits](https://osf.io/9axfe/)
+        +   [anmelden](https://osf.io/register/) `r icon::fa_arrow_right()`
+            *request access* `r icon::fa_arrow_right()` loslegen 
++   intern: [Files (Uni Würzburg)](https://files.uni-wuerzburg.de)
+    +   Für den internen Austausch
+
+--
+
+### Protokolle
+
++    Jede Sitzung fertig eine ein Protokoll an
+    +  Inhalt: Was wurde besprochen? Was sind die Aufgaben?
++  Protokolle sind [hier](https://grszkthfr.github.io/ss19_empra/protocols/01-protocol.html) einzusehen
+    + Die Quelldatei ([hier (lokal)](file:///C:/Users/jog54yy/Documents/Lehre/ss19_empra/protocols/01-protocol.md)
+      bzw. [hier (auf osf.io)](https://osf.io/gqa6e/?show=edit)) ist
+      eine [*markdown*](https://de.wikipedia.org/wiki/Markdown)-Datei
+      (Dateiendung i.d.R. ".md") 
+
+???
+
+---
+
+class: middle, center, inverse
+
+# Einführung in empirische und experimentelle Forschungsmethoden
+
+???
+
++   Was erwartet ihr?
++   Was ist Empirie?
++   Was ist Experiment?
++   Lernziele?
+
+---
+
+## Wissenschaft
+
+.footnote[aus Jaccard & Jacoby, 2009]
+
+--
+
++   Ansatz zum Verstehen der Welt
+    +   Theologie (*theology*)
+    +   Jurisprudenz (*law*)
+    +   Philosophie (*philosophy*)
+    +   Geisteswissenschaften (*arts*)
+    +   Naturwissenschaften (*science*)
+
+`r icon::fa_arrow_right()` *befriedigende* Ansätze zur Abstraktion und
+Bewältigung der Welt
+
+--
+
+.pull-left[
+
+### universelle Grundlagen
+
++   Konzepte und Abhängigkeiten zwischen Konzepten
++   Limitation, was sie in der Welt addressieren
++   Präskriptive und evaluative Funktion
+
+]
+
+--
+
+.pull-right[
+
+### Bewertung von Aussagen
+
++   Konsensvalidierung
++   Expertenvalidierung
++   interne Validierung
++   systematische (empirische) Validierung
+
+]
+
+
+???
+
+Teils Jahrtausende alte Perspektiven
+
+---
+
+## empirische Validierung: Experimente
+
+.pull-left[
+
+<p><a href="https://commons.wikimedia.org/wiki/File:Empirical_Cycle.svg#/media/File:Empirical_Cycle.svg"><img
+src="https://upload.wikimedia.org/wikipedia/commons/5/53/Empirical_Cycle.svg"
+width="342" height="300"></a>
+]
+
+--
+
+.pull-right[
+
+0.  Problemstellung und Hypothesenbildung
+0.  Versuchsplanung
+0.  Versuchsaufbau
+0.  Versuchsdurchführung
+0.  Datenanalyse
+0.  Dateninterpretation, Schlussfolgerung und Kommunikation
+
+]
+
+.footnote[
+
+aus: Reiß & Sarris, 2012
+
+]
+
+???
+
+induktiv: Vom Speziellen (Beobachtungen) auf das Allgemeine -->
+Problem der Induktiven Logik!
+
+deduktiv: Vom Allgemeinen
+(Einzelannahmen) auf das Spezielle --> valides Begründen
+
+---
+
+## 26 Heuristiken zur Ideengenerierung
+
+<font size="-1">
+.pull-left[
+
+1.  Analyze your own experience
+2.  Use case studies
+3.  Collect practitioners' rules of thumb
+4.  Use role playing
+5.  Conduct a thought experiment
+6.  Engage in participant observation
+7.  Analyze paradoxical incidents
+8.  Engage in imaging
+9.  Use analogies and metaphors
+10. Re frame the problem in terms of the opposite
+11. Apply deviant case analysis
+12. Change the scale
+13. Focus on process or focus on variables
+14. Consider abstractions or specific instances
+15. Make the opposite assumption
+16. Apply the continual why and what
+17. Consult your grandmother - and prove her wrong
+18. Push an established finding to the extreme
+19. Read biographies and literature, and be a well-rounded media consumer
+20. Identify remote and shared/differentiating associates
+21. Shift the unit of analysis
+22. Shift the level of analysis
+23. Use both explanations rather then one or the other
+24. Capitalize on methodological and technological innovations
+25. Focus on your emotions
+26. What pushes your intellectual hot button?
+
+]
+</font>
+
+.pull-right[
+.center[
+`r icon::fa_rocket(size = 5) `
+]
+]
+.footnote[aus Jaccard & Jacoby, 2009, p.48-67]
+
+
+---
+
+class: inverse
+
+## Für nächste Woche:
++   Account bei [`r icon::ai_osf()`](https://osf.io/register) erstellen
+    +   [Projekt beitreten](https://osf.io/9axfe/)
++   Studienideen?
+    +   Eine *Methode* aussuchen
+    +   3 - 4 Ideen mitbringen
+
+---
+class: inverse, center, middle
+
+# Noch Fragen?
+
+---
+
+class: inverse, center, middle
+
+`r icon::fa_smile(size = 5, color = farbe_der_woche)`
+
+Die Farbe der Woche ist `r farbe_der_woche`!
+
+--
+
+# Vielen Dank für Eure Aufmerksamkeit!
+
+
+## Bis nächsten Montag.
+
+--
+
+.footnote[
+
+<font size="-2">Slides created via the R packages [**xaringan**](https://github.com/yihui/xaringan) and [knitr](http://yihui.name/knitr), and [R Markdown](https://rmarkdown.rstudio.com).
+
+<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons Lizenzvertrag" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />Dieses Werk ist lizenziert unter einer <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Namensnennung - Weitergabe unter gleichen Bedingungen 4.0 International Lizenz</a>.</font size>
+
+]
+
+
+---
+
+# Quellen
+
++   Jaccard, J. & Jacoby, J. (2009). Theory construction and
+    model-building skills: A practical guide for social
+    scientists. Guilford Press.
++   Reiß, S. & Sarris, V. (2012). Experimentelle Psychologie: Von
+    Theorie zur Praxis. Pearson Studium.
