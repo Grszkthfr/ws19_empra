@@ -23,3 +23,7 @@ Sitzungsdatum:
       * mit `~durchgestrichen~` wird Text ~durchgestrichen~
 
 ## Aufgaben zur nächsten Sitzung ##
+
+  * Optional: Sich ein wenig mit Markdown vertraut machen.
+      * [Markdown (Wikipedia)](https://de.wikipedia.org/wiki/Markdown), [kleine
+        Tour](https://guides.github.com/features/mastering-markdown/)
