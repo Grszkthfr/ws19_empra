@@ -1,4 +1,6 @@
-# Protokol Sitzung 09 #
+# Protokoll Sitzung 09 #
+
+Sitzungsdatum:
 
 ## Themen ##
 

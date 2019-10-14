@@ -1,4 +1,6 @@
-# Protokol Citizen 10 #
+# Protokoll Sitzung 10 #
+
+Sitzungsdatum:
 
 ## Themen ##
 

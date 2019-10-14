@@ -1,4 +1,6 @@
-# Protokol Sitzung 07 #
+# Protokoll Sitzung 07 #
+
+Sitzungsdatum:
 
 ## Themen ##
 

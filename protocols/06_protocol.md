@@ -1,4 +1,6 @@
-# Protokol Sitzung 06 #
+# Protokoll Sitzung 06 #
+
+Sitzungsdatum:
 
 ## Themen ##
 

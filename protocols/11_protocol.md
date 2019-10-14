@@ -1,4 +1,6 @@
-# Protokol Sitzung 11 #
+# Protokoll Sitzung 11 #
+
+Sitzungsdatum:
 
 ## Themen ##
 

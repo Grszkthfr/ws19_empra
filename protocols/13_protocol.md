@@ -1,4 +1,6 @@
-# Protokol Sitzung 13 #
+# Protokoll Sitzung 13 #
+
+Sitzungsdatum:
 
 ## Themen ##
 

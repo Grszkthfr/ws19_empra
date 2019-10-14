@@ -1,4 +1,6 @@
-# Protokol Sitzung 12 #
+# Protokoll Sitzung 12 #
+
+Sitzungsdatum:
 
 ## Themen ##
 

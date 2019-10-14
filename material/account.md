@@ -17,7 +17,7 @@ von internen Dateien.
 
 [![](lib-account/wuefiles.gif)](https://grszkthfr.github.io/ws18_empra/material/lib-account/wuefiles.gif)
 
-+   Bitte den Ordner *ss19_empra* auf dem *J-Laufwerk* nutzen
++   Bitte den Ordner *ws19_empra* auf dem *J-Laufwerk* nutzen
 +   Bei fehlendem Speicherplatz bitte Bescheid geben
 
 über: [Files - webbasierter Zugriff auf Netzlaufwerke (RZ)](https://www.rz.uni-wuerzburg.de/dienste/arbeitsplaetze/netzlaufwerk/files/)

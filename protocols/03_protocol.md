@@ -1,4 +1,6 @@
-# Protokol Sitzung 03 #
+# Protokoll Sitzung 03 #
+
+Sitzungsdatum:
 
 ## Themen ##
 

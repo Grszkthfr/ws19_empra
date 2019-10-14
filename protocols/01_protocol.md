@@ -1,4 +1,6 @@
-# Protokol Sitzung 01 #
+# Protokoll Sitzung 01 #
+
+Sitzungsdatum:
 
 ## Themen ##
 

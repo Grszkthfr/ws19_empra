@@ -1,4 +1,4 @@
-# Protokol Sitzung XX #
+# Protokoll Sitzung XX #
 
 Sitzungsdatum: 
 

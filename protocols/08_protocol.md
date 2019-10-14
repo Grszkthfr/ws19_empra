@@ -1,4 +1,6 @@
-# Protokol Sitzung 08 #
+# Protokoll Sitzung 08 #
+
+Sitzungsdatum:
 
 ## Themen ##
 

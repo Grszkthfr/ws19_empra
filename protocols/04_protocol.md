@@ -1,4 +1,6 @@
-# Protokol Sitzung 04 #
+# Protokoll Sitzung 04 #
+
+Sitzungsdatum:
 
 ## Themen ##
 

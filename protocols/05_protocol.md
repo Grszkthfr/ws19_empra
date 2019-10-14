@@ -1,4 +1,6 @@
-# Protokol Sitzung 05 #
+# Protokoll Sitzung 05 #
+
+Sitzungsdatum:
 
 ## Themen ##
 

@@ -1,4 +1,6 @@
-# Protokol Sitzung 14 #
+# Protokoll Sitzung 14 #
+
+Sitzungsdatum:
 
 ## Themen ##
 
