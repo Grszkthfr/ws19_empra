@@ -27,34 +27,34 @@ Thema <- c(
 
     ### Sitzung 1
     # Inhalt
-    'Orga, Kennenlernen, Wissenschaft, [Folien](./slides/01-orga.html), [Protokoll](./protocols/01-protocol.html)',
+    'Orga, Kennenlernen, Wissenschaft, [Folien](./slides/01-orga.html), [*Protokoll*](./protocols/01_protocol.md)',
 
     ### Sitzung 2
-    '',
+    '[*Protokoll*](./protocols/02_protocol.md)',
 
     ### Sitzung 3
-    '',
+    '[*Protokoll*](./protocols/03_protocol.md)',
 
     ### Sitzung 4
-    '',
+    '[*Protokoll*](./protocols/04_protocol.md)',
 
     ### Sitzung 5
-    '',
+    '[*Protokoll*](./protocols/05_protocol.md)',
 
     ### Sitzung 6
-    '',
+    '[*Protokoll*](./protocols/06_protocol.md)',
 
     ### Sitzung 7
-    '',
+    '[*Protokoll*](./protocols/07_protocol.md)',
 
     ### Sitzung 8
-    '',
+    '[*Protokoll*](./protocols/08_protocol.md)',
 
     ### Sitzung 9
-    '',
+    '[*Protokoll*](./protocols/09_protocol.md)',
 
     ### Sitzung 10
-    '',
+    '[*Protokoll*](./protocols/11_protocol.md)',
 
     ### Sitzung entfällt
     '',
@@ -66,16 +66,16 @@ Thema <- c(
     '',
 
     ### Sitzung 11
-    '',
+    '[*Protokoll*](./protocols/11_protocol.md)',
 
     ### Sitzung 12
-    '',
+    '[*Protokoll*](./protocols/12_protocol.md)',
 
     ### Sitzung 13
-    '',
+    '[*Protokoll*](./protocols/13_protocol.md)',
 
     ### Sitzung 14
-    '')
+    '[*Protokoll*](./protocols/14_protocol.md)')
 
 ### Nr. Termin Thema in einer Tabelle
 Sitzungen <- data.frame(Sitzung, Termin, Thema) %>%
