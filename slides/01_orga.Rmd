@@ -105,7 +105,7 @@ Hier beginnen die Notizen
 +   Überblick: [grszkthfr.github.io/ws19_empra/](https://grszkthfr.github.io/ws19_empra/)
     +   Anleitungen, Überblick, Ankündigungen
 +   öffentlich: [Open Science Framework](https://www.osf.io/)
-    +   Für alles was von öffentlichem Interesse ist.
+    +   Für alles, was von öffentlichem Interesse ist.
 +   intern: [Files (Uni Würzburg)](https://files.uni-wuerzburg.de)
     +   Für den internen Austausch
 
