@@ -74,8 +74,6 @@ aufschreiben
 
 ]
 
---
-
 <iframe src="https://giphy.com/embed/9CoKSiJADd7Wg" width="240" height="138" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
 
 .footnote[
@@ -108,9 +106,6 @@ Hier beginnen die Notizen
     +   Anleitungen, Überblick, Ankündigungen
 +   öffentlich: [Open Science Framework](https://www.osf.io/)
     +   Für alles was von öffentlichem Interesse ist.
-    +   Projekt *existiert* [bereits](https://osf.io/9axfe/)
-        +   [anmelden](https://osf.io/register/) `r icon::fa_arrow_right()`
-            *request access* `r icon::fa_arrow_right()` loslegen 
 +   intern: [Files (Uni Würzburg)](https://files.uni-wuerzburg.de)
     +   Für den internen Austausch
 
@@ -118,13 +113,9 @@ Hier beginnen die Notizen
 
 ### Protokolle
 
-+    Jede Sitzung fertig eine ein Protokoll an
++    Zu jeder Sitzung wird ein Protokoll geschrieben.
     +  Inhalt: Was wurde besprochen? Was sind die Aufgaben?
-+  Protokolle sind [hier](https://grszkthfr.github.io/ss19_empra/protocols/01-protocol.html) einzusehen
-    + Die Quelldatei ([hier (lokal)](file:///C:/Users/jog54yy/Documents/Lehre/ss19_empra/protocols/01-protocol.md)
-      bzw. [hier (auf osf.io)](https://osf.io/gqa6e/?show=edit)) ist
-      eine [*markdown*](https://de.wikipedia.org/wiki/Markdown)-Datei
-      (Dateiendung i.d.R. ".md") 
++ Quelldateien siehe Startseite
 
 ???
 
@@ -151,7 +142,7 @@ class: middle, center, inverse
 
 +   Ansatz zum Verstehen der Welt
     +   Theologie (*theology*)
-    +   Jurisprudenz (*law*)
+    +   Rechtswissenschaft (*law*)
     +   Philosophie (*philosophy*)
     +   Geisteswissenschaften (*arts*)
     +   Naturwissenschaften (*science*)
@@ -219,69 +210,33 @@ aus: Reiß & Sarris, 2012
 
 ]
 
+--
+
+## `r icon::fa_arrow_right()` Einblicke in meine Arbeit
+
+
+
 ???
 
 induktiv: Vom Speziellen (Beobachtungen) auf das Allgemeine -->
-Problem der Induktiven Logik!
+Problem der Induktiven Logik! Sokrates ist sterblich & Sokrates ist ein Mensch -> Alle Menschen sind sterblich. Bodo ist ein Dackel & Bodo ist ein Hund -> Alle Hunde sind Dackel.
 
 deduktiv: Vom Allgemeinen
-(Einzelannahmen) auf das Spezielle --> valides Begründen
+(Einzelannahmen) auf das Spezielle --> valides Begründen! Alle Menschen sind sterlich & Sokrates ist ein Mensch -> Sokrates ist sterblich.
 
----
-
-## 26 Heuristiken zur Ideengenerierung
-
-<font size="-1">
-.pull-left[
-
-1.  Analyze your own experience
-2.  Use case studies
-3.  Collect practitioners' rules of thumb
-4.  Use role playing
-5.  Conduct a thought experiment
-6.  Engage in participant observation
-7.  Analyze paradoxical incidents
-8.  Engage in imaging
-9.  Use analogies and metaphors
-10. Re frame the problem in terms of the opposite
-11. Apply deviant case analysis
-12. Change the scale
-13. Focus on process or focus on variables
-14. Consider abstractions or specific instances
-15. Make the opposite assumption
-16. Apply the continual why and what
-17. Consult your grandmother - and prove her wrong
-18. Push an established finding to the extreme
-19. Read biographies and literature, and be a well-rounded media consumer
-20. Identify remote and shared/differentiating associates
-21. Shift the unit of analysis
-22. Shift the level of analysis
-23. Use both explanations rather then one or the other
-24. Capitalize on methodological and technological innovations
-25. Focus on your emotions
-26. What pushes your intellectual hot button?
-
-]
-</font>
-
-.pull-right[
-.center[
-`r icon::fa_rocket(size = 5) `
-]
-]
-.footnote[aus Jaccard & Jacoby, 2009, p.48-67]
-
+was ist wissenschaft
+gute wissenschaftliche praxis
+versuchsplanung bis durchführung
+ergebnisse auswerten, interpretieren und analysieren
 
 ---
 
 class: inverse
 
 ## Für nächste Woche:
-+   Account bei [`r icon::ai_osf()`](https://osf.io/register) erstellen
-    +   [Projekt beitreten](https://osf.io/9axfe/)
-+   Studienideen?
-    +   Eine *Methode* aussuchen
-    +   3 - 4 Ideen mitbringen
++   Lesen: [Hietanen, J. K. (2018). Affective eye contact: an integrative review. Frontiers in psychology, 9.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6121038/)
++   Forschungsideen formulieren, grob skizzieren
+
 
 ---
 class: inverse, center, middle

@@ -20,12 +20,20 @@ bei Albrecht Sebald (Gruppe 1) nicht vergessen\!
 ### Sitzungen
 
 Die Sitzungen finden **Montags**, von **14.15h bis 15.45h**, im **Raum
-213** der Marcusstraße 9-11,
-statt.
+213** der Marcusstraße 9-11, statt.
+
+Protokolle (Quelldateien) können
+[hier](https://github.com/grszkthfr/ws19_empra/tree/master/protocols)
+runtergeladen (oder bearbeitet) werden,
+[hier](https://grszkthfr.github.io/ws19_empra/protocols/example-protocol.html)
+(mit
+[Quelle](https://github.com/grszkthfr/ws19_empra/blob/master/protocols/example-protocol.md))ist
+ein
+Beispiel.
 
 | Nr. |       Termin       | Thema                                                                                                      |
 | :-: | :----------------: | :--------------------------------------------------------------------------------------------------------- |
-| 01  | 14\. Oktober 2019  | Orga, Kennenlernen, Wissenschaft, [Folien](./slides/01-orga.html), [Protokoll](./protocols/01_protocol.md) |
+| 01  | 14\. Oktober 2019  | Orga, Kennenlernen, Wissenschaft, [Folien](./slides/01_orga.html), [Protokoll](./protocols/01_protocol.md) |
 | 02  | 21\. Oktober 2019  | [*Protokoll*](./protocols/02_protocol.md)                                                                  |
 | 03  | 28\. Oktober 2019  | [*Protokoll*](./protocols/03_protocol.md)                                                                  |
 | 04  | 04\. November 2019 | [*Protokoll*](./protocols/04_protocol.md)                                                                  |
@@ -41,7 +49,7 @@ statt.
 | 14  | 03\. Februar 2020  | [*Protokoll*](./protocols/14_protocol.md)                                                                  |
 
 letzte Aktualisierung: 14. Okt 2019,
-11:48:47
+17:12:09
 
 ### Lizenz
 
