@@ -22,9 +22,9 @@ bei Albrecht Sebald (Gruppe 1) nicht vergessen\!
 Die Sitzungen finden **Montags**, von **14.15h bis 15.45h**, im **Raum
 213** der Marcusstraße 9-11, statt.
 
-Protokolle (Quelldateien) können
+Protokolle können
 [hier](https://github.com/grszkthfr/ws19_empra/tree/master/protocols)
-runtergeladen (oder bearbeitet) werden,
+runtergeladen (oder bearbeitet) werden (oder über den Link zur Sitzung),
 [hier](https://grszkthfr.github.io/ws19_empra/protocols/example-protocol.html)
 (mit
 [Quelle](https://github.com/grszkthfr/ws19_empra/blob/master/protocols/example-protocol.md))ist
@@ -49,7 +49,7 @@ Beispiel.
 | 14  | 03\. Februar 2020  | [*Protokoll*](./protocols/14_protocol.md)                                                                  |
 
 letzte Aktualisierung: 14. Okt 2019,
-17:12:09
+17:14:43
 
 ### Lizenz
 
