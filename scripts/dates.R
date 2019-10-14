@@ -27,7 +27,7 @@ Thema <- c(
 
     ### Sitzung 1
     # Inhalt
-    'Orga, Kennenlernen, Wissenschaft, [Folien](./slides/01-orga.html), [*Protokoll*](./protocols/01_protocol.md)',
+    'Orga, Kennenlernen, Wissenschaft, [Folien](./slides/01-orga.html), [Protokoll](./protocols/01_protocol.md)',
 
     ### Sitzung 2
     '[*Protokoll*](./protocols/02_protocol.md)',
@@ -117,20 +117,16 @@ sitzung_html <-
 
     ### delete link to other slides in html table
     mutate(
-        Thema = ifelse(
-
-            # when pattern is found
-            str_detect(string=Thema, pattern="Folien"),
-
-            # extracts (deletes) everything following the pattern
-            str_extract(string=Thema, pattern=".+?(?=, \\[Folien\\])"),
-            as.character(Thema))) %>%
+        Thema = str_remove_all(
+            Thema,
+            # (in "()") | in ", []" | in "[]"
+            "(\\([^()]*\\))|(, \\[[^()]*\\])|(\\[[^()]*\\])")) %>%
 
     kable(
         format = 'html',
         table.attr = "style='width:100%;'",
         align = c("c","c","l"),
-        caption = "Übersicht - Sommersemester 2019"
+        caption = "Übersicht - Wintersemester 2019/20"
         ) %>%
     kable_styling(font_size = 14)
 
