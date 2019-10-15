@@ -32,11 +32,12 @@ Marcusstraße 9-11, statt.
 
 Protokolle können
 [hier](https://github.com/grszkthfr/ws19_empra/tree/master/protocols)
-runtergeladen (oder bearbeitet) werden (oder über den Link zur Sitzung, s.u.),
+runtergeladen (und auch bearbeitet) werden oder über den Link zur Sitzung
+(s.u.),
 [hier](https://grszkthfr.github.io/ws19_empra/protocols/example-protocol.html)
 (mit
-[Quelle](https://github.com/grszkthfr/ws19_empra/blob/master/protocols/example-protocol.md))ist
-ein Beispiel, wie das vorher und nachher aussieht, und wie rudimentäre
+[Quelle](https://github.com/grszkthfr/ws19_empra/blob/master/protocols/example-protocol.md))
+ist ein Beispiel, wie das vorher und nachher aussieht, und wie rudimentäre
 Formatierung funktioniert.
 
 ```{r, include=FALSE}

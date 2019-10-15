@@ -24,12 +24,14 @@ Die Sitzungen finden **Montags**, von **14.15h bis 15.45h**, im **Raum
 
 Protokolle können
 [hier](https://github.com/grszkthfr/ws19_empra/tree/master/protocols)
-runtergeladen (oder bearbeitet) werden (oder über den Link zur Sitzung),
+runtergeladen (und auch bearbeitet) werden oder über den Link zur
+Sitzung (s.u.),
 [hier](https://grszkthfr.github.io/ws19_empra/protocols/example-protocol.html)
 (mit
-[Quelle](https://github.com/grszkthfr/ws19_empra/blob/master/protocols/example-protocol.md))ist
-ein
-Beispiel.
+[Quelle](https://github.com/grszkthfr/ws19_empra/blob/master/protocols/example-protocol.md))
+ist ein Beispiel, wie das vorher und nachher aussieht, und wie
+rudimentäre Formatierung
+funktioniert.
 
 | Nr. |       Termin       | Thema                                                                                                      |
 | :-: | :----------------: | :--------------------------------------------------------------------------------------------------------- |
@@ -48,8 +50,8 @@ Beispiel.
 | 13  |  27\. Januar 2020  | [*Protokoll*](./protocols/13_protocol.md)                                                                  |
 | 14  | 03\. Februar 2020  | [*Protokoll*](./protocols/14_protocol.md)                                                                  |
 
-letzte Aktualisierung: 14. Okt 2019,
-17:14:43
+letzte Aktualisierung: 15. Okt 2019,
+08:43:59
 
 ### Lizenz
 
