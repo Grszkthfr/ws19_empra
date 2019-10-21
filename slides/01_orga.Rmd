@@ -11,7 +11,6 @@ output:
       highlightStyle: github
       highlightLines: true
       countIncrementalSlides: false
-
 ---
 
 ```{r setup, include=FALSE}
@@ -179,55 +178,6 @@ Bewältigung der Welt
 ???
 
 Teils Jahrtausende alte Perspektiven
-
----
-
-## empirische Validierung: Experimente
-
-.pull-left[
-
-<p><a href="https://commons.wikimedia.org/wiki/File:Empirical_Cycle.svg#/media/File:Empirical_Cycle.svg"><img
-src="https://upload.wikimedia.org/wikipedia/commons/5/53/Empirical_Cycle.svg"
-width="342" height="300"></a>
-]
-
---
-
-.pull-right[
-
-0.  Problemstellung und Hypothesenbildung
-0.  Versuchsplanung
-0.  Versuchsaufbau
-0.  Versuchsdurchführung
-0.  Datenanalyse
-0.  Dateninterpretation, Schlussfolgerung und Kommunikation
-
-]
-
-.footnote[
-
-aus: Reiß & Sarris, 2012
-
-]
-
---
-
-## `r icon::fa_arrow_right()` Einblicke in meine Arbeit
-
-
-
-???
-
-induktiv: Vom Speziellen (Beobachtungen) auf das Allgemeine -->
-Problem der Induktiven Logik! Sokrates ist sterblich & Sokrates ist ein Mensch -> Alle Menschen sind sterblich. Bodo ist ein Dackel & Bodo ist ein Hund -> Alle Hunde sind Dackel.
-
-deduktiv: Vom Allgemeinen
-(Einzelannahmen) auf das Spezielle --> valides Begründen! Alle Menschen sind sterlich & Sokrates ist ein Mensch -> Sokrates ist sterblich.
-
-was ist wissenschaft
-gute wissenschaftliche praxis
-versuchsplanung bis durchführung
-ergebnisse auswerten, interpretieren und analysieren
 
 ---
 

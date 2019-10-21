@@ -30,7 +30,7 @@ Thema <- c(
     'Orga, Kennenlernen, Wissenschaft, [Folien](./slides/01_orga.html), [Protokoll](./protocols/01_protocol.md)',
 
     ### Sitzung 2
-    '[*Protokoll*](./protocols/02_protocol.md)',
+    'Experimente, Forschungsideen, [Folien](./slides/02_start.html), [*Protokoll*](./protocols/02_protocol.md)',
 
     ### Sitzung 3
     '[*Protokoll*](./protocols/03_protocol.md)',
