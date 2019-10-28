@@ -122,8 +122,10 @@ class: inverse
 
 ## Für nächste Woche:
 
-+   Forschungsdesign
-+   Präregistrierung
++   Forschungsdesign, -ideen, -hypothesen?
++   Präregistrierung anschauen
+    +    Welche Fragen müssen beantwortet werden?
+    +    Welche Fragen können bereits beantwortet werden?
 
 ---
 
