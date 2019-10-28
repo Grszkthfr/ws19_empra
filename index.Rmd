@@ -3,7 +3,6 @@ title: "index"
 output:
     md_document:
         variant: gfm
-
 ---
 
 ## Allgemeines
