@@ -152,13 +152,13 @@ class: middle, center, inverse
 
 ## Theorie
 
-![](imgs/02_Pfeiffer2013.png)
+![](imgs/Pfeiffer2013.png)
 
 ---
 
 ## Theorie
 
-![](imgs/02_Jarick2015.png)
+![](imgs/Jarick2015.png)
 
 ---
 

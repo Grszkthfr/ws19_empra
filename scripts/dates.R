@@ -30,28 +30,28 @@ Thema <- c(
     'Orga, Kennenlernen, Wissenschaft, [Folien](./slides/01_orga.html), [Protokoll](./protocols/01_protocol.md)',
 
     ### Sitzung 2
-    'Experimente, Forschungsideen, [Folien](./slides/02_start.html), [*Protokoll*](./protocols/02_protocol.md)',
+    'Experimente, Forschungsideen, [Folien](./slides/02_start.html), [Protokoll](./protocols/02_protocol.md)',
 
     ### Sitzung 3
-    '[*Protokoll*](./protocols/03_protocol.md)',
+    'Theorie, [*Protokoll*](./protocols/03_protocol.md), [Folien](./slides/03_theory.html)',
 
     ### Sitzung 4
-    '[*Protokoll*](./protocols/04_protocol.md)',
+    '*Hypothesen*, [*Protokoll*](./protocols/04_protocol.md)',
 
     ### Sitzung 5
-    '[*Protokoll*](./protocols/05_protocol.md)',
+    '*Design*, [*Protokoll*](./protocols/05_protocol.md)',
 
     ### Sitzung 6
-    '[*Protokoll*](./protocols/06_protocol.md)',
+    '*Erhebung*, [*Protokoll*](./protocols/06_protocol.md)',
 
     ### Sitzung 7
     '[*Protokoll*](./protocols/07_protocol.md)',
 
     ### Sitzung 8
-    '[*Protokoll*](./protocols/08_protocol.md)',
+    ', [*Protokoll*](./protocols/08_protocol.md)',
 
     ### Sitzung 9
-    '[*Protokoll*](./protocols/09_protocol.md)',
+    '*Auswertung*, [*Protokoll*](./protocols/09_protocol.md)',
 
     ### Sitzung 10
     '[*Protokoll*](./protocols/11_protocol.md)',
@@ -66,7 +66,7 @@ Thema <- c(
     '',
 
     ### Sitzung 11
-    '[*Protokoll*](./protocols/11_protocol.md)',
+    '*Poster*, [*Protokoll*](./protocols/11_protocol.md)',
 
     ### Sitzung 12
     '[*Protokoll*](./protocols/12_protocol.md)',
@@ -115,7 +115,7 @@ Sitzungen <- data.frame(Sitzung, Termin, Thema) %>%
 sitzung_html <-
     Sitzungen %>%
 
-    ### delete link to other slides in html table
+    ### delete link to other slides and protocols in html table
     mutate(
         Thema = str_remove_all(
             Thema,
