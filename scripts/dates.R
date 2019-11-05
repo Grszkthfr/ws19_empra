@@ -33,10 +33,10 @@ Thema <- c(
     'Experimente, Forschungsideen, [Folien](./slides/02_start.html), [Protokoll](./protocols/02_protocol.md)',
 
     ### Sitzung 3
-    'Theorie, [*Protokoll*](./protocols/03_protocol.md), [Folien](./slides/03_theory.html)',
+    'Theorie, [Protokoll](./protocols/03_protocol.md), [Folien](./slides/03_theory.html)',
 
     ### Sitzung 4
-    '*Hypothesen*, [*Protokoll*](./protocols/04_protocol.md)',
+    'Forschungsfrage, Preregistrierung und Hypothesen, keine Folien, [Protokoll](./protocols/04_protocol.md)',
 
     ### Sitzung 5
     '*Design*, [*Protokoll*](./protocols/05_protocol.md)',
