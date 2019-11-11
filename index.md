@@ -39,7 +39,7 @@ funktioniert.
 | 02  | 21\. Oktober 2019  | Experimente, Forschungsideen, [Folien](./slides/02_start.html), [Protokoll](./protocols/02_protocol.md)    |
 | 03  | 28\. Oktober 2019  | Theorie, [Protokoll](./protocols/03_protocol.md), [Folien](./slides/03_theory.html)                        |
 | 04  | 04\. November 2019 | Forschungsfrage, Preregistrierung und Hypothesen, keine Folien, [Protokoll](./protocols/04_protocol.md)    |
-| 05  | 11\. November 2019 | *Design*, [*Protokoll*](./protocols/05_protocol.md)                                                        |
+| 05  | 11\. November 2019 | *Design*, [Protokoll](./protocols/05_protocol.md)                                                          |
 | 06  | 18\. November 2019 | *Erhebung*, [*Protokoll*](./protocols/06_protocol.md)                                                      |
 | 07  | 25\. November 2019 | [*Protokoll*](./protocols/07_protocol.md)                                                                  |
 | 08  | 02\. Dezember 2019 | , [*Protokoll*](./protocols/08_protocol.md)                                                                |
@@ -50,8 +50,8 @@ funktioniert.
 | 13  |  27\. Januar 2020  | [*Protokoll*](./protocols/13_protocol.md)                                                                  |
 | 14  | 03\. Februar 2020  | [*Protokoll*](./protocols/14_protocol.md)                                                                  |
 
-letzte Aktualisierung: 05. Nov 2019,
-14:58:51
+letzte Aktualisierung: 11. Nov 2019,
+09:16:08
 
 ### Lizenz
 
