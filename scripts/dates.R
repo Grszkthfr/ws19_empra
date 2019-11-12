@@ -39,7 +39,7 @@ Thema <- c(
     'Forschungsfrage, Preregistrierung und Hypothesen, keine Folien, [Protokoll](./protocols/04_protocol.md)',
 
     ### Sitzung 5
-    '*Design*, [*Protokoll*](./protocols/05_protocol.md)',
+    '*Design*, [Protokoll](./protocols/05_protocol.md)',
 
     ### Sitzung 6
     '*Erhebung*, [*Protokoll*](./protocols/06_protocol.md)',
