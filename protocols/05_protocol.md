@@ -3,18 +3,18 @@
 Sitzung: 11.11.2019  
 Authorin: Kathrin
 
-## 1. Wiederholung letzter Woche
+## 1. Wiederholung letzter Woche ##
 
 * letzte Woche Einigung auf Thema: Intimität und Verwendung Eye-Tracker
 
-## 2. Eye-Tracking und Intimität? Besprechung des Papers
+## 2. Eye-Tracking und Intimität? Besprechung des Papers ##
 
 * **Paper:** Michael Argyle and Janet Dean, „Eye-Contact, Distance and
   Affiliation“. Sociometry, Volume 28, Issue 3 (Sep., 1965), 289-304.
 * *„Equilibrium theory of intimacy“*
 	* Dimensionen: Eye-Contact, Distanz, Gesprächsthema, …
 
-## 3. Was wäre unsere Forschungsfrage, Hypothesen, Design? Ideensammlung:
+## 3. Was wäre unsere Forschungsfrage, Hypothesen, Design? Ideensammlung: ##
 
 * Experiment (Argyle, 1965) nachstellen, aber ohne Confederate. Mehr Genauigkeit
   durch Verwendung des Eye-Trackers.
@@ -22,9 +22,9 @@ Authorin: Kathrin
   2 Personen sich gar nicht anschauen?
 * Verschiedene Sitzpositionen?
 
-## 4. Wie könnten die abhängige Variable (AV) und die unabhängige Variable (UV) aussehen? 
+## 4. Wie könnten die abhängige Variable (AV) und die unabhängige Variable (UV) aussehen? ##
 
-### Abhängige Variable:
+### Abhängige Variable: ###
 
 * das was man misst
 * in unserem Fall Eye-Contact
@@ -45,7 +45,7 @@ Authorin: Kathrin
 * Idee zeitliche Dynamik: Verändert sich die Blickdauer über die Zeit?
   (schwierig zu untersuchen)
 
-### Was ist Eye-Contact? Ideensammlung
+### Was ist Eye-Contact? Ideensammlung ###
 
 * nur wenn sich beide Pupillen treffen?
 * Eye-Contact nur wenn sich beide VP gegenseitig anschauen? u.U. schwer zu
@@ -55,7 +55,7 @@ Authorin: Kathrin
 * Idee für Synchronizität: jede VP eigener Zeitstrahl, wichtig gleichzeitiger
   Beginn.
 
-### Unabhängige Variable:
+### Unabhängige Variable: ###
 
 * das was man manipuliert
 * **Was waren UVs im Paper?** 
@@ -72,7 +72,7 @@ Authorin: Kathrin
 * **Puzzlespiel 2 Faktoren:** Kooperativ vs. kompetitiv
 * Distanz auch als UV?  Wie viele unterschiedliche Distanzen?
 
-### Zwischenstand
+### Zwischenstand ###
 
 * **AV:** Gesamtzeit des Eye-Contacts.
 * **Noch unklar wie erfassen wir Eye-Contact.**
@@ -82,9 +82,9 @@ Authorin: Kathrin
 * **mögliche UVs:** 1. kompetitiv vs. kooperativ. 2. Distanz. 
 	* **Fragen**: Wie testen wir Distanz? Wie wollen wir Distanz manipulieren?
 
-## 5. Diskussion und Ideensammlung über UVs
+## 5. Diskussion und Ideensammlung über UVs ##
 
-### mögliche UV: Sprechen über ein vorgegebenes Thema: 
+### mögliche UV: Sprechen über ein vorgegebenes Thema: ###
 
 * Thema sollte neutral, unverfänglich sein und keine persönlichen Vorlieben
   ansprechen
@@ -94,7 +94,7 @@ Authorin: Kathrin
   dann im Augenkontakt nichts finden. Bei einer freien Themenwahl wäre dies
   ebenfalls problematisch.
 
-### mögliche UV: Distanz
+### mögliche UV: Distanz ###
 
 * **Sollen VP stehen oder sitzen?** Sitzen einfacher, geringerer
   Größenunterschied, fester Platz
@@ -113,7 +113,7 @@ Authorin: Kathrin
 * **Reihenfolge der Distanzen:** 1. nah > 2. fern; 1. fern > 2. nah. Explorativ
   anschauen ob es Reihenfolgeeffekte gab.
 
-### Diskussion und Abstimmung welches Design für UV Distanz:
+### Diskussion und Abstimmung welches Design für UV Distanz: ###
 
 * **Within-Subjects Design:** 
 	* Vorteile: Vergleich für jede VP-Gruppe, Teststärke höher,
@@ -125,12 +125,12 @@ Authorin: Kathrin
 	* Nachteil: geringere Power
 * **Mehrheit stimmt für Within-Subjects Design**
 	
-### Geschlechterunterschiede:
+### Geschlechterunterschiede: ###
 
 * problematisch, wenige VP, unnötig komplex
 * eventuell explorativ anschauen
 
-### Kompetitiv vs. Kooperativ Puzzlespiel/Memory
+### Kompetitiv vs. Kooperativ Puzzlespiel/Memory ###
 
 * **Kooperativ:** Intimität entsteht. Ausgleich über Blickkontakt?
 * **Diskussion:** Was für ein Spiel? Memory oder Puzzle.
@@ -138,11 +138,11 @@ Authorin: Kathrin
 * gegenübersitzen beim Puzzle
 * Etwas vorgeben vom Puzzle? Wie viele Teile soll Puzzle haben?
 
-### Fragebogen: 
+### Fragebogen: ###
 
 * zum Abschluss des Experiments Fragen erheben, z.B. wie gut kennt ihr euch?
 
-### Zwischenstand:
+### Zwischenstand: ###
 
 * **kein** Gespräch während Eyetracker Messung
 * während Eyetracker Messung sollen sich VP **gegenüber sitzen**
