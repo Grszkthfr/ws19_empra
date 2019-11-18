@@ -1,6 +1,6 @@
 # Protokoll Sitzung 04 #
 
-Sitzungsdatum: 04.11.2019
+Sitzungsdatum: 04.11.2019  
 Authorin: Ise
 
 ## Themen ##
@@ -18,16 +18,19 @@ Authorin: Ise
   * Aspredicted wird häufiger genutzt, weil prägnantere Fragen
 
 #### **Nachteile?** ####
-  * Betrug trotzdem noch möglich, einfach mehrere Präregistrationen und am Ende die passende herausfischen
+  * Betrug trotzdem noch möglich, einfach mehrere Präregistrationen und am Ende
+    die passende herausfischen
   * green-washing
 
   * ABER: Es geht darum, einen Standard zu schaffen = gute Sache
-  * Vorsicht ist geboten: Präregistration allein schützt nicht vor Fehlern (z.B. schlechtes Design)
+  * Vorsicht ist geboten: Präregistration allein schützt nicht vor Fehlern (z.B.
+    schlechtes Design)
 
 ### Neues Input-Paper ###
 
   * Paper aus 1965 zu eye contact
-  * Hypothese: Intimitätsgleichgewicht, das bei Störung ausgeglichen wird (Distanz, Augenkontakt)
+  * Hypothese: Intimitätsgleichgewicht, das bei Störung ausgeglichen wird
+    (Distanz, Augenkontakt)
   * Bsp.: Je näher zwei Vps aneinander stehen, desto weniger Augenkontakt
     Je weiter sie sich voneinander entfernen, desto mehr Augenkontakt
 
@@ -45,17 +48,20 @@ Authorin: Ise
   * erfassen oder manipulieren
   * z.B. Spiel spielen und danach frei die Distanz zum Spielpartner wählen lassen
   * Versuch, Studie aus 1963 in irgendeiner Weise zu replizieren?
-  * blöd zu erfassen, Unterschiede wenn VPs sich untereinander kennen? -> nein, denn im Verhältnis stimmt es.
-    auch Freunde schauen sich bei wenig Abstand weniger in die Augen als bei großem Abstand.
+  * blöd zu erfassen, Unterschiede wenn VPs sich untereinander kennen? -> nein,
+    denn im Verhältnis stimmt es. auch Freunde schauen sich bei wenig Abstand
+    weniger in die Augen als bei großem Abstand.
 
 
-  * Inwieweit verändern die Eyetracker das natürliche Blickverhalten? Fühlt man sich "beobachtet" ?
+  * Inwieweit verändern die Eyetracker das natürliche Blickverhalten? Fühlt man
+    sich "beobachtet" ?
   * nicht allzu sehr, Mensch ist immer ein "offenes Buch" wegen der weißen Sklera
   * nach kurzer Eingewöhnungsphase sollte es kein Problem darstellen
   
 ## Aufgaben zur nächsten Sitzung ##
 
   * zwei neue Paper lesen
-  * Welche Aspekte wollen wir in unser Experiment einschließen? Wie genau? Wie könnte eine Hypothese aussehen?
+  * Welche Aspekte wollen wir in unser Experiment einschließen? Wie genau? Wie
+    könnte eine Hypothese aussehen?
   * Präregistrationsfragen im Hinterkopf haben
   
