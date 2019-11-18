@@ -26,7 +26,7 @@ von internen Dateien.
 
 [SONA](https://psywue.sona-systems.com): Zum Freischalten von Erhebungsterminen.
 
-[Anleitung (Download)](lib-account/SONA-Systems_Einleitung-Hiwis.pptx)
+[Anleitung (Download)](https://www.psychologie.uni-wuerzburg.de/fileadmin/06020400/2019/FAQs_SONA_als_Forscher_innen.pdf)
 
 ## Laborplan ##
 
