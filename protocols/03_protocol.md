@@ -1,7 +1,7 @@
 # Protokoll Sitzung 03 #
 
 Sitzungsdatum: 28.10.19  
-Authorin: Selina
+Autorin: Selina
 
 ## Themen ##
 

@@ -1,7 +1,7 @@
 # Protokoll Sitzung 02 #
 
 Sitzungsdatum: 21.10.19  
-Authorin: Marie-Pierre
+Autorin: Marie-Pierre
 
 ## Themen ##
 

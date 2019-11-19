@@ -1,7 +1,7 @@
 # Protokoll Sitzung 04 #
 
 Sitzungsdatum: 04.11.2019  
-Authorin: Ise
+Autorin: Ise
 
 ## Themen ##
 

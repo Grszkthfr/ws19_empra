@@ -1,7 +1,7 @@
 # Protokoll 05
 
 Sitzung: 11.11.2019  
-Authorin: Kathrin
+Autorin: Kathrin
 
 ## 1. Wiederholung letzter Woche ##
 
