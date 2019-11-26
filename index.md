@@ -17,7 +17,7 @@ Semesters benötigt werden, findet ihr
 [Prüfungsanmeldung](https://www-sbhome1.zv.uni-wuerzburg.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=201046&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung){:target="\_blank"}
 bei Albrecht Sebald (Gruppe 1) nicht vergessen\!
 
-Unsere Präregistrierung kann beinfindet sich hier:
+Unsere Präregistrierung beinfindet sich hier:
 [aspredicted.org/ee9dr.pdf](https://aspredicted.org/ee9dr.pdf)
 
 ### Sitzungen
@@ -54,7 +54,7 @@ funktioniert.
 | 14  | 03\. Februar 2020  | [*Protokoll*](./protocols/14_protocol.md)                                                                  |
 
 letzte Aktualisierung: 26. Nov 2019,
-10:39:06
+11:54:07
 
 ### Lizenz
 
