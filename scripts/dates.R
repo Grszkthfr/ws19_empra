@@ -42,10 +42,10 @@ Thema <- c(
     'Design, [Protokoll](./protocols/05_protocol.md)',
 
     ### Sitzung 6
-    'Finalisierung, [*Protokoll*](./protocols/06_protocol.md)',
+    'Finalisierung, [Protokoll](./protocols/06_protocol.md)',
 
     ### Sitzung 7
-    '[*Protokoll*](./protocols/07_protocol.md)',
+    'Pilotierung, [Protokoll](./protocols/07_protocol.md)',
 
     ### Sitzung 8
     '[*Protokoll*](./protocols/08_protocol.md)',

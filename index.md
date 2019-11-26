@@ -17,6 +17,9 @@ Semesters benötigt werden, findet ihr
 [Prüfungsanmeldung](https://www-sbhome1.zv.uni-wuerzburg.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=201046&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung){:target="\_blank"}
 bei Albrecht Sebald (Gruppe 1) nicht vergessen\!
 
+Unsere Präregistrierung kann beinfindet sich hier:
+[aspredicted.org/ee9dr.pdf](https://aspredicted.org/ee9dr.pdf)
+
 ### Sitzungen
 
 Die Sitzungen finden **Montags**, von **14.15h bis 15.45h**, im **Raum
@@ -40,8 +43,8 @@ funktioniert.
 | 03  | 28\. Oktober 2019  | Theorie, [Folien](./slides/03_theory.html), [Protokoll](./protocols/03_protocol.md)                        |
 | 04  | 04\. November 2019 | Forschungsfrage, Preregistrierung und Hypothesen, keine Folien, [Protokoll](./protocols/04_protocol.md)    |
 | 05  | 11\. November 2019 | Design, [Protokoll](./protocols/05_protocol.md)                                                            |
-| 06  | 18\. November 2019 | Finalisierung, [*Protokoll*](./protocols/06_protocol.md)                                                   |
-| 07  | 25\. November 2019 | [*Protokoll*](./protocols/07_protocol.md)                                                                  |
+| 06  | 18\. November 2019 | Finalisierung, [Protokoll](./protocols/06_protocol.md)                                                     |
+| 07  | 25\. November 2019 | Pilotierung, [Protokoll](./protocols/07_protocol.md)                                                       |
 | 08  | 02\. Dezember 2019 | [*Protokoll*](./protocols/08_protocol.md)                                                                  |
 | 09  | 09\. Dezember 2019 | *Auswertung*, [*Protokoll*](./protocols/09_protocol.md)                                                    |
 | 10  | 16\. Dezember 2019 | [*Protokoll*](./protocols/11_protocol.md)                                                                  |
@@ -50,8 +53,8 @@ funktioniert.
 | 13  |  27\. Januar 2020  | [*Protokoll*](./protocols/13_protocol.md)                                                                  |
 | 14  | 03\. Februar 2020  | [*Protokoll*](./protocols/14_protocol.md)                                                                  |
 
-letzte Aktualisierung: 18. Nov 2019,
-14:08:23
+letzte Aktualisierung: 26. Nov 2019,
+10:39:06
 
 ### Lizenz
 
