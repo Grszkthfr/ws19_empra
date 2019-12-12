@@ -9,3 +9,5 @@ _*
 # ignore links
 *.lnk
 ws19_empra.Rproj
+/psychopy/
+/experiment/
