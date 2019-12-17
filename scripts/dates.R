@@ -48,13 +48,13 @@ Thema <- c(
     'Pilotierung, [Protokoll](./protocols/07_protocol.md)',
 
     ### Sitzung 8
-    '[*Protokoll*](./protocols/08_protocol.md)',
+    'Erhebung, [Protokoll](./protocols/08_protocol.md)',
 
     ### Sitzung 9
-    '*Auswertung*, [*Protokoll*](./protocols/09_protocol.md)',
+    'Erhebung & Datenverarbeitung, [Protokoll](./protocols/09_protocol.md)',
 
     ### Sitzung 10
-    '[*Protokoll*](./protocols/11_protocol.md)',
+    'Datenverarbeitung, [Protokoll](./protocols/10_protocol.md)',
 
     ### Sitzung entfällt
     '',
@@ -66,13 +66,13 @@ Thema <- c(
     '',
 
     ### Sitzung 11
-    '*Poster*, [*Protokoll*](./protocols/11_protocol.md)',
+    '*Auswertung*, [*Protokoll*](./protocols/11_protocol.md)',
 
     ### Sitzung 12
-    '[*Protokoll*](./protocols/12_protocol.md)',
+    '*Poster*, [*Protokoll*](./protocols/12_protocol.md)',
 
     ### Sitzung 13
-    '[*Protokoll*](./protocols/13_protocol.md)',
+    '*Poster*, [*Protokoll*](./protocols/13_protocol.md)',
 
     ### Sitzung 14
     '[*Protokoll*](./protocols/14_protocol.md)')

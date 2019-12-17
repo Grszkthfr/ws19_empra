@@ -45,16 +45,16 @@ funktioniert.
 | 05  | 11\. November 2019 | Design, [Protokoll](./protocols/05_protocol.md)                                                            |
 | 06  | 18\. November 2019 | Finalisierung, [Protokoll](./protocols/06_protocol.md)                                                     |
 | 07  | 25\. November 2019 | Pilotierung, [Protokoll](./protocols/07_protocol.md)                                                       |
-| 08  | 02\. Dezember 2019 | [*Protokoll*](./protocols/08_protocol.md)                                                                  |
-| 09  | 09\. Dezember 2019 | *Auswertung*, [*Protokoll*](./protocols/09_protocol.md)                                                    |
-| 10  | 16\. Dezember 2019 | [*Protokoll*](./protocols/11_protocol.md)                                                                  |
-| 11  |  13\. Januar 2020  | *Poster*, [*Protokoll*](./protocols/11_protocol.md)                                                        |
-| 12  |  20\. Januar 2020  | [*Protokoll*](./protocols/12_protocol.md)                                                                  |
-| 13  |  27\. Januar 2020  | [*Protokoll*](./protocols/13_protocol.md)                                                                  |
+| 08  | 02\. Dezember 2019 | Erhebung, [Protokoll](./protocols/08_protocol.md)                                                          |
+| 09  | 09\. Dezember 2019 | Erhebung & Datenverarbeitung, [Protokoll](./protocols/09_protocol.md)                                      |
+| 10  | 16\. Dezember 2019 | Datenverarbeitung, [Protokoll](./protocols/10_protocol.md)                                                 |
+| 11  |  13\. Januar 2020  | *Auswertung*, [*Protokoll*](./protocols/11_protocol.md)                                                    |
+| 12  |  20\. Januar 2020  | *Poster*, [*Protokoll*](./protocols/12_protocol.md)                                                        |
+| 13  |  27\. Januar 2020  | *Poster*, [*Protokoll*](./protocols/13_protocol.md)                                                        |
 | 14  | 03\. Februar 2020  | [*Protokoll*](./protocols/14_protocol.md)                                                                  |
 
-letzte Aktualisierung: 26. Nov 2019,
-11:54:07
+letzte Aktualisierung: 17. Dez 2019,
+09:58:15
 
 ### Lizenz
 
