@@ -53,7 +53,7 @@ Authorin: Kathrin
 `Eine Fixation auf dem Kopf wird dann kodiert, wenn irgendein Teil der
 angezeigten Fixation(en) das Gesicht berührt. Als Gesicht gilt dabei die Fläche
 (inklusive) zwischen den Ohren, und vom Haaransatz bis zum Kinn. Wenn keine
-Fixation angezeigt wird, wird der Frame mit missing kodiert. Alle anderen
+Fixation angezeigt wird, wird der Frame mit *missing* kodiert. Alle anderen
 Fixationen werden als *nicht* auf dem Kopf kodiert.`
 
 ### Wie viele Kategorien gibt es beim kodieren? ###
