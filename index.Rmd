@@ -11,7 +11,7 @@ Hier solltet ihr alle Informationen finden, die wir im Laufe des
 Semesters benötigen.
 
 Erreichen könnt ihr
-[mich](http://www.i1.psychologie.uni-wuerzburg.de/ekp/personen/jonas-grossekathoefer/){:target="_blank"}
+[mich](https://www.psychologie.uni-wuerzburg.de/en/expklin/staff/jonas-grossekathoefer/){:target="_blank"}
 am besten per Mail:
 [jonas.grossekathoefer@uni-wuerzburg.de](mailto:jonas.grossekathoefer@uni-wuerzburg.de).
 
@@ -21,7 +21,7 @@ Die aktuelle Modulbeschreibung findet ihr
 Informationen zu den verschiedenen Plattformen, die im Laufe des
 Semesters benötigt werden, findet ihr [hier](material/account.html).
 
-[Prüfungsanmeldung](https://www-sbhome1.zv.uni-wuerzburg.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=201046&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung){:target="_blank"}
+[Prüfungsanmeldung](https://wuestudy.zv.uni-wuerzburg.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=174745&periodId=282){:target="_blank"}
 bei Albrecht Sebald (Gruppe 1) nicht vergessen!
 
 Unsere Präregistrierung beinfindet sich hier:
@@ -51,7 +51,8 @@ source("scripts/dates.R", encoding = "UTF-8")
 
 `r sitzung_md`
 
-letzte Aktualisierung: `r format(Sys.time(), "%d. %b %Y, %X")`
+letzte Aktualisierung: `r format(Sys.time(), "%d. %b %Y, %X")`: 
+`r system("git log -1 --pretty=%B", intern = TRUE)`
 
 ### Lizenz
 

@@ -4,7 +4,7 @@ Hier solltet ihr alle Informationen finden, die wir im Laufe des
 Semesters benötigen.
 
 Erreichen könnt ihr
-[mich](http://www.i1.psychologie.uni-wuerzburg.de/ekp/personen/jonas-grossekathoefer/){:target="\_blank"}
+[mich](https://www.psychologie.uni-wuerzburg.de/en/expklin/staff/jonas-grossekathoefer/){:target="\_blank"}
 am besten per Mail: <jonas.grossekathoefer@uni-wuerzburg.de>.
 
 Die aktuelle Modulbeschreibung findet ihr
@@ -14,7 +14,7 @@ Informationen zu den verschiedenen Plattformen, die im Laufe des
 Semesters benötigt werden, findet ihr
 [hier](material/account.html).
 
-[Prüfungsanmeldung](https://www-sbhome1.zv.uni-wuerzburg.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=201046&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung){:target="\_blank"}
+[Prüfungsanmeldung](https://wuestudy.zv.uni-wuerzburg.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=174745&periodId=282){:target="\_blank"}
 bei Albrecht Sebald (Gruppe 1) nicht vergessen\!
 
 Unsere Präregistrierung beinfindet sich hier:
@@ -53,8 +53,8 @@ funktioniert.
 | 13  |  27\. Januar 2020  | *Poster*, [*Protokoll*](./protocols/13_protocol.md)                                                        |
 | 14  | 03\. Februar 2020  | [*Protokoll*](./protocols/14_protocol.md)                                                                  |
 
-letzte Aktualisierung: 17. Dez 2019,
-09:58:15
+letzte Aktualisierung: 18. Dez 2019, 09:16:08: minor
+cosmetics,
 
 ### Lizenz
 
