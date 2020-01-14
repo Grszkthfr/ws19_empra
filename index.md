@@ -48,13 +48,13 @@ funktioniert.
 | 08  | 02\. Dezember 2019 | Erhebung, [Protokoll](./protocols/08_protocol.md)                                                          |
 | 09  | 09\. Dezember 2019 | Erhebung & Datenverarbeitung, [Protokoll](./protocols/09_protocol.md)                                      |
 | 10  | 16\. Dezember 2019 | Datenverarbeitung, [Protokoll](./protocols/10_protocol.md)                                                 |
-| 11  |  13\. Januar 2020  | *Auswertung*, [*Protokoll*](./protocols/11_protocol.md)                                                    |
+| 11  |  13\. Januar 2020  | Auswertung, [Protokoll](./protocols/11_protocol.md)                                                        |
 | 12  |  20\. Januar 2020  | *Poster*, [*Protokoll*](./protocols/12_protocol.md)                                                        |
 | 13  |  27\. Januar 2020  | *Poster*, [*Protokoll*](./protocols/13_protocol.md)                                                        |
 | 14  | 03\. Februar 2020  | [*Protokoll*](./protocols/14_protocol.md)                                                                  |
 
-letzte Aktualisierung: 18. Dez 2019, 09:16:08: minor
-cosmetics,
+letzte Aktualisierung: 14. Jan 2020, 10:14:45: update links in general
+information,
 
 ### Lizenz
 

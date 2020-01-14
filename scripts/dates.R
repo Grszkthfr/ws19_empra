@@ -66,7 +66,7 @@ Thema <- c(
     '',
 
     ### Sitzung 11
-    '*Auswertung*, [*Protokoll*](./protocols/11_protocol.md)',
+    'Auswertung, [Protokoll](./protocols/11_protocol.md)',
 
     ### Sitzung 12
     '*Poster*, [*Protokoll*](./protocols/12_protocol.md)',
