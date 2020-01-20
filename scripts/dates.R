@@ -69,13 +69,13 @@ Thema <- c(
     'Auswertung, [Protokoll](./protocols/11_protocol.md)',
 
     ### Sitzung 12
-    '*Poster*, [*Protokoll*](./protocols/12_protocol.md)',
+    'Poster, [Folien](./slides/12_pruefung.html) [Protokoll](./protocols/12_protocol.md)',
 
     ### Sitzung 13
     '*Poster*, [*Protokoll*](./protocols/13_protocol.md)',
 
     ### Sitzung 14
-    '[*Protokoll*](./protocols/14_protocol.md)')
+    '**Posterkongress: 05.02.2020, Röntgenring 11, Altbau**')
 
 ### Nr. Termin Thema in einer Tabelle
 Sitzungen <- data.frame(Sitzung, Termin, Thema) %>%
