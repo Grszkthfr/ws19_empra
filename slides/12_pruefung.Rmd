@@ -61,11 +61,17 @@ class: inverse, center, middle
 ## Prüfung ##
 
 +   15 Minuten, 10 Minuten Vorstellung der Forschungsarbeit, 5 Minuten offene Fragen
-+   Termine:
++   Termine, am **05.02.20** in R013 in der Marcusstraße:
 
-| Termine | Studierende |
-| :-----: | :---------: |
-| tba     | tba         |
+| Uhrzeit         | Studierende  |
+| :-------------: | :----------: |
+| 12.40h - 13.00h | Florian      |
+| 13.00h - 13.20h | Selina       |
+| 13.40h - 14.00h | Niklas       |
+| 14.00h - 14.20h | Marie-Pierre |
+| 14.00h - 14.20h | Hanna        |
+| 14.20h - 14.40h | Ise          |
+| 14.40h - 15.00h | Kathrin      |
 
 ???
 

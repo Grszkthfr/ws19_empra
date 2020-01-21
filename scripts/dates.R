@@ -69,7 +69,7 @@ Thema <- c(
     'Auswertung, [Protokoll](./protocols/11_protocol.md)',
 
     ### Sitzung 12
-    'Poster, [Folien](./slides/12_pruefung.html) [Protokoll](./protocols/12_protocol.md)',
+    'Poster, [Folien](./slides/12_pruefung.html), [Protokoll](./protocols/12_protocol.md)',
 
     ### Sitzung 13
     '*Poster*, [*Protokoll*](./protocols/13_protocol.md)',

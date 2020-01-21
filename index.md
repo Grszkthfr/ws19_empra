@@ -49,12 +49,12 @@ funktioniert.
 | 09  | 09\. Dezember 2019 | Erhebung & Datenverarbeitung, [Protokoll](./protocols/09_protocol.md)                                      |
 | 10  | 16\. Dezember 2019 | Datenverarbeitung, [Protokoll](./protocols/10_protocol.md)                                                 |
 | 11  |  13\. Januar 2020  | Auswertung, [Protokoll](./protocols/11_protocol.md)                                                        |
-| 12  |  20\. Januar 2020  | Poster, [Folien](./slides/12_pruefung.html) [Protokoll](./protocols/12_protocol.md)                        |
+| 12  |  20\. Januar 2020  | Poster, [Folien](./slides/12_pruefung.html), [Protokoll](./protocols/12_protocol.md)                       |
 | 13  |  27\. Januar 2020  | *Poster*, [*Protokoll*](./protocols/13_protocol.md)                                                        |
 | 14  | 03\. Februar 2020  | **Posterkongress: 05.02.2020, Röntgenring 11, Altbau**                                                     |
 
-letzte Aktualisierung: 20. Jan 2020, 13:36:04: update session
-11,
+letzte Aktualisierung: 20. Jan 2020, 13:38:56: updates session
+12,
 
 ### Lizenz
 
